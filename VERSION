@@ -1,0 +1,13 @@
+commit a2a94f212dc14cc9abf3fb919c3f17f8d3f3ace3
+Author: Emmett Lalish <elalish@google.com>
+Date:   Tue Dec 1 09:49:00 2020 -0800
+
+    added setEmissiveFactor to scene-graph API (#1735)
+    
+    * added setEmissiveFactor to scene-graph API
+    
+    * try longer timeout for testing
+    
+    * update adapter test
+    
+    * fixed space-opera test
